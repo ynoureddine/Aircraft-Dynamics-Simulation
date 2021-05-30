@@ -20,5 +20,9 @@ We are able to predict:
 - General aircraft trajectory
 - Resultant forces
 
-To run the code, run the executable "inputs.py" file here is where you should also make any changes to the initial conditions of the flight. After a run, you will either receive a message stating that the simulation has been sucesffuly calculated or that the aircraft has crashed or ran out of fuel, whichever comes first. In all cases, an output.csv file in the post processing folder is created with flight parameters throughout the simulation. A script in the same folder called "plot.py" can then be run that will produce the appropriate plots for the flight simulation.
+To run the code, run the executable "inputs.py" file. This file is where you should also make any changes to the initial conditions of the flight. After a run, you will either receive a message stating that the simulation has been successfully calculated or that the aircraft has crashed or ran out of fuel, whichever comes first. In all cases, an output.csv file in the post processing folder is created with flight parameters throughout the simulation. A script in the same folder called "plot.py" can then be run that will produce the appropriate plots for the flight simulation based on the output.csv file.
+
+Example outputs are shown in the aae497/postprocessing folder.
+
+The project report is shown in PDF format in aae497 directory.
 
